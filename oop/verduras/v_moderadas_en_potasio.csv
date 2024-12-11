@@ -1,0 +1,15 @@
+id,idGroup,name,portion,idUnit,grossWeight,netWeight,energyK,energyJ,protein,lipids,carbohydrates,fiber
+6,0,Berenjena picada cocida,0.75,0,74,74,26,146,0.6,0.2,6.5,1.9
+33,0,Chilacayote crudo,150,2,150,135,19,79,1.6,0.3,3.6,0.4
+38,0,Chile cuaresmeño,2,1,60,50,16,67,0.8,0.2,3.7,0.5
+41,0,Chile jalapeño,6,1,90,78,23,96,1.1,0.5,4.6,2.2
+49,0,Colecita de Bruselas cocida,3,1,63,63,23,96,1.6,0.3,4.5,1.6
+91,0,Huauzontle,0.5,0,40,40,24,100,1.8,0.3,4.8,1.1
+100,0,Jitomate verde,0.75,1,92,92,21,117,1.1,0.2,4.7,1.1
+103,0,Jugo de verduras,0.5,0,121,121,23,96,0.8,0.1,5.5,1
+104,0,Jugo de zanahoria,0.25,0,59,59,24,100,0.6,0.1,5.5,0.5
+121,0,Pepino con cáscara rebanado,1.25,0,130,130,20,67,0.8,0.1,4.7,0.7
+138,0,Setas cocidas,0.5,0,78,78,21,88,2.5,0.3,3.4,2
+140,0,Tomate verde,5,1,100,86,21,88,0.9,0.2,3.9,2.1
+145,0,Xoconostle,3,1,102,71,18,75,0.1,0.3,3.7,1.6
+150,0,Zanahoria rallada cruda,0.5,0,55,55,23,96,0.5,0.1,4.1,1.5
